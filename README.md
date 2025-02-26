@@ -14,7 +14,7 @@ Coverage: [Marginal Revolution](https://marginalrevolution.com/marginalrevolutio
   
    with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (MIT Sloan), Sophia Kazinnik (Stanford HAI), & Daniela Puzzello (Indiana University)
 
-  Coverage: [Vice Chair for Supervision Michael S. Barr Speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm) * [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-02-26/robots-will-write-the-macro-forecasts)
+Coverage: [Vice Chair for Supervision Michael S. Barr Speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm) * [Bloomberg](https://www.bloomberg.com/opinion/articles/2025-02-26/robots-will-write-the-macro-forecasts)
 
 - Understanding AI Agents' Decision-Making: Evidence from Risk and Time Preference Elicitation [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154002)
 
