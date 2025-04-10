@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ali Zarifhonarvar / Site Title"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ali Zarifhonarvar"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ali Zarifhonarvar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD Candidate in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and Large Language Models. I study questions related to expectations and AI-human interaction. "
   location         : "Bloomington, IN"
   employer         : "Indiana University"
   uri              : # alizarif.github.io
