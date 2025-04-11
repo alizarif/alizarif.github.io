@@ -37,6 +37,3 @@ Coverage: [Vice Chair for Supervision Michael S. Barr Speech](https://www.federa
 A cross-disciplinary big-team science effort to study LLM capability evaluation in the context of persuasion
 
 
-## Some Resources
-- Mini-Course on Generative AI Applications : [Link](https://github.com/alizarif/LLM)
-- A simple code for integrating an AI chatbot powered by the OpenAI Assistants API into Qualtrics surveys. The detailed explanation can be read in the tutorial: [Repository](https://github.com/alizarif/QualtricsAIChatbot)
