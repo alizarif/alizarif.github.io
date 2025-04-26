@@ -4,31 +4,117 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-{% include base_path %}
+
+<style>
+  .resource-box {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 2px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.8em;
+    background-color: #f9f9f9;
+    text-decoration: none !important;
+    color: #333;
+  }
+  .resource-box:hover {
+    background-color: #e9e9e9;
+    text-decoration: none !important;
+  }
+  .course-container {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 12px;
+    font-size: 0.95em;
+  }
+  .course-title {
+    font-weight: bold;
+    font-size: 1em;
+    margin-bottom: 4px;
+  }
+  .description-toggle {
+    cursor: pointer;
+    color: #4682B4;
+    margin-top: 6px;
+    font-size: 0.9em;
+  }
+  .description-toggle:after {
+    content: " ▼";
+    font-size: 0.8em;
+    vertical-align: middle;
+  }
+  .description-toggle.open:after {
+    content: " ▲";
+  }
+  .description-content {
+    padding: 8px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #4682B4;
+    margin-top: 6px;
+    font-size: 0.9em;
+  }
+  h2 {
+    font-size: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  a {
+    text-decoration: none !important;
+  }
+</style>
 
 <h2>Instructor</h2>
-<ul>
-  <li><strong>Mini-Course on Generative AI Applications</strong> <a href="https://github.com/alizarif/LLM">[Course Materials]</a> <a href="#">[Syllabus]</a>
-    <details>
-      <summary>Course Description</summary>
-      <p>This mini-course provides an introduction to generative AI applications with a focus on practical implementation. Students learn about large language models, their capabilities, and how to effectively use them for various applications in economics and data analysis.</p>
-    </details>
-  </li>
+
+<div class="course-container">
+  <div class="course-title">Mini-Course on Generative AI Applications</div>
   
-  <li><strong>Computational Methods in Macroeconomics</strong> (ECON 402) <a href="#">[Syllabus]</a>
-    <details>
-      <summary>Course Description</summary>
-      <p></p>
-    </details>
-  </li>
-</ul>
+  <div class="resources">
+    <a href="https://github.com/alizarif/LLM" class="resource-box">Course Materials</a>
+    <a href="#" class="resource-box">Syllabus</a>
+  </div>
+  
+  <div class="description-toggle" onclick="toggleDescription('description-1', this)">Course Description</div>
+  <div id="description-1" class="description-content" style="display:none;">
+    <p>This mini-course provides an introduction to generative AI applications with a focus on practical implementation. Students learn about large language models, their capabilities, and how to effectively use them for various applications in economics and data analysis.</p>
+  </div>
+</div>
+
+<div class="course-container">
+  <div class="course-title">Computational Methods in Macroeconomics (ECON 402)</div>
+  
+  <div class="resources">
+    <a href="#" class="resource-box">Syllabus</a>
+  </div>
+  
+  <div class="description-toggle" onclick="toggleDescription('description-2', this)">Course Description</div>
+  <div id="description-2" class="description-content" style="display:none;">
+    <p></p>
+  </div>
+</div>
 
 <h2>Teaching Assistant</h2>
-<ul>
-  <li><strong>Big Data and Machine Learning in Economics</strong> (ECON 401, ECON 518)</li>
-  
-  <li><strong>Introductory Microeconomics and Macroeconomics</strong> (BUS 251, ECON 251, ECON 252)</li>
 
-  <li><strong>Statistical Analysis For Business and Economics</strong> (ECON 370)
+<div class="course-container">
+  <div class="course-title">Big Data and Machine Learning in Economics (ECON 401, ECON 518)</div>
+</div>
 
-</ul>
+<div class="course-container">
+  <div class="course-title">Introductory Microeconomics and Macroeconomics (BUS 251, ECON 251, ECON 252)</div>
+</div>
+
+<div class="course-container">
+  <div class="course-title">Statistical Analysis For Business and Economics (ECON 370)</div>
+</div>
+
+<script>
+function toggleDescription(id, element) {
+  var description = document.getElementById(id);
+  if (description.style.display === "none") {
+    description.style.display = "block";
+    element.classList.add("open");
+  } else {
+    description.style.display = "none";
+    element.classList.remove("open");
+  }
+}
+</script>
