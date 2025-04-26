@@ -4,55 +4,187 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+
+<style>
+  .resource-box {
+    display: inline-block;
+    padding: 4px 12px;
+    margin: 3px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.85em;
+    background-color: #f9f9f9;
+    text-decoration: none;
+    color: #333;
+  }
+  .resource-box:hover {
+    background-color: #e9e9e9;
+  }
+  .publication-container {
+    margin-bottom: 25px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+  }
+  .publication-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 5px;
+  }
+  .author-list {
+    font-style: italic;
+    margin-bottom: 8px;
+  }
+  .journal-info {
+    color: #4682B4;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
+  .abstract-toggle {
+    cursor: pointer;
+    color: #4682B4;
+    margin-top: 8px;
+  }
+  .abstract-content {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #4682B4;
+    margin-top: 8px;
+  }
+  .presentation-info {
+    font-size: 0.9em;
+    margin-top: 8px;
+  }
+  .coverage-info {
+    font-size: 0.9em;
+    margin-top: 5px;
+  }
+</style>
+
 <h2>Publications</h2>
-<ul>
-  <li>
-    <strong>Economics of ChatGPT: A Labor Market View on the Occupational Impact of Artificial Intelligence</strong> <a href="https://www.emerald.com/insight/content/doi/10.1108/JEBDE-10-2023-0021/full/html">[Link]</a>
-    <details>
-      <summary>Abstract</summary>
-      <p>This paper examines the potential impact of ChatGPT and similar large language models on labor markets. We analyze occupational vulnerability using task content and skill requirements, finding that high-skilled occupations may face significant disruption while identifying opportunities for human-AI collaboration and workforce adaptation.</p>
-    </details>
-  </li>
-</ul>
+
+<div class="publication-container">
+  <div class="publication-title">Market Size and Trade in Medical Services</div>
+  <div class="author-list">April 2024 (with Josh Gottlieb, Maya Lozinski, Pauline Mourot)</div>
+  <div class="journal-info">Revisions requested at American Economic Review</div>
+  
+  <div class="resources">
+    <a href="#" class="resource-box">PDF</a>
+    <a href="#" class="resource-box">Slides</a>
+    <a href="#" class="resource-box">BFI summary</a>
+    <a href="#" class="resource-box">BFI podcast</a>
+    <a href="#" class="resource-box">BibTeX</a>
+    <a href="#" class="resource-box">Data</a>
+  </div>
+  
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-1')">Abstract</div>
+  <div id="abstract-1" class="abstract-content" style="display:none;">
+    <p>We uncover substantial interregional trade in medical services and investigate whether regional increasing returns explain it. In Medicare data, one-fifth of production involves a doctor treating a patient from another region. Larger regions produce greater quantity, quality, and variety of medical services, which they "export" to patients from elsewhere, especially smaller regions. We show that these patterns reflect scale economies: greater demand enables larger regions to improve quality, so they attract patients from elsewhere. Despite concerns about rural access, larger regions have higher marginal returns to spending. We study counterfactual policies that would lower travel costs rather than relocating production.</p>
+  </div>
+  
+  <div class="coverage-info">
+    <strong>Media mentions:</strong> <a href="#">Washington Post</a>, <a href="#">The Center Square</a>, <a href="#">Chicago Booth Review</a>, <a href="#">For All</a>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-title">Economics of ChatGPT: A Labor Market View on the Occupational Impact of Artificial Intelligence</div>
+  <div class="resources">
+    <a href="https://www.emerald.com/insight/content/doi/10.1108/JEBDE-10-2023-0021/full/html" class="resource-box">Link</a>
+  </div>
+  
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-2')">Abstract</div>
+  <div id="abstract-2" class="abstract-content" style="display:none;">
+    <p>This paper examines the potential impact of ChatGPT and similar large language models on labor markets. We analyze occupational vulnerability using task content and skill requirements, finding that high-skilled occupations may face significant disruption while identifying opportunities for human-AI collaboration and workforce adaptation.</p>
+  </div>
+</div>
+
 <h2>Working Papers</h2>
-<ul>
-  <li>
-    <strong>Evidence on Inflation Expectations Formation Using Large Language Models</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076">[Draft]</a><br>
-    <span style="color: #4682B4; font-weight: 500;">Revise and Resubmit, Journal of Monetary Economics</span>
-    <details>
-      <summary>Abstract</summary>
-      <p>This paper studies the formation of inflation expectations using generative AI in survey experiments, specifically focusing on agents created with Large Language Models (LLMs). It reveals that LLMs accessing relevant economic documents exhibit more consistent responses, demonstrating that domain knowledge significantly shapes expectations. Typically, LLMs predict higher inflation than actual rates, aligning closely with findings from the Survey of Consumer Expectations. Information treatments, particularly forward guidance, precisely influence LLMs' inflation expectations. Furthermore, customizing prompts with a persona induces partisan biases, mirroring human survey behaviors. It also explores the importance of model selection and the reasoning behind LLM responses, emphasizing how these elements impact outcomes. Additionally, the paper shows that LLMs can generate granular predictions of inflation expectations across demographic groups, suggesting potential applications in forecasting survey responses with limited data.</p>
-    </details>
-    <p><strong>Presentations</strong>: ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop at Purdue University (West Lafayette, IN), 30th Midwest Macroeconomics Meetings (West Lafayette, IN), 5th ACM International Conference on AI in Finance (Brooklyn, NY)</p>
-    <p>Coverage: <a href="https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html">Marginal Revolution</a></p>
-  </li>
+
+<div class="publication-container">
+  <div class="publication-title">Evidence on Inflation Expectations Formation Using Large Language Models</div>
+  <div class="journal-info">Revise and Resubmit, Journal of Monetary Economics</div>
   
-  <li>
-    <strong>Simulating the Survey of Professional Forecasters</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066286">[Draft]</a>
-    <details>
-      <summary>Abstract</summary>
-      <p>We simulate economic forecasts of professional forecasters using large language models (LLMs). We construct synthetic forecaster personas using a unique hand-gathered dataset of participant characteristics from the Survey of Professional Forecasters. These personas are then provided with real-time macroeconomic data to generate simulated responses to the SPF survey. Our results show that LLM-generated predictions are similar to human forecasts, but often achieve superior accuracy, particularly at medium- and long-term horizons. We argue that this advantage arises from LLMs' ability to extract latent information encoded in past human forecasts while avoiding systematic biases and noise. Our framework offers a cost-effective, high-frequency alternative that complements traditional survey methods by leveraging both human expertise and AI precision.</p>
-    </details>
-    <p>with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (MIT Sloan), Sophia Kazinnik (Stanford HAI), & Daniela Puzzello (Indiana University)</p>
-    <p>Coverage: <a href="https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm">Vice Chair for Supervision Michael S. Barr Speech</a> • <a href="https://www.bloomberg.com/opinion/articles/2025-02-26/robots-will-write-the-macro-forecasts">Bloomberg</a></p>
-  </li>
+  <div class="resources">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825076" class="resource-box">Draft</a>
+    <a href="#" class="resource-box">PDF</a>
+    <a href="#" class="resource-box">Slides</a>
+    <a href="#" class="resource-box">Appendix</a>
+    <a href="#" class="resource-box">Data</a>
+  </div>
   
-  <li>
-    <strong>Understanding AI Agents' Decision-Making: Evidence from Risk and Time Preference Elicitation</strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154002">[Draft]</a>
-    <details>
-      <summary>Abstract</summary>
-      <p>This study examines risk and time preferences of large language models (LLMs) in economic decision-making scenarios by adapting established behavioral economics measures. Using a novel methodology combining predefined risk personas and randomized controlled trials (RCTs), we assess AI agents' responses to various economic contexts. We find that AI models demonstrate systematic preference patterns influenced by both assigned personas and economic conditions, with larger models exhibiting more sophisticated preference updating than smaller models. Notably, recession scenarios elicit stronger preference adjustments than boom scenarios across all models, while risk-averse personas maintain consistent positions regardless of context. The results reveal that AI agents can develop coherent economic preferences distinct from human decision-making patterns, particularly in their response to negative economic information.</p>
-    </details>
-    <p>with Gajanan L Ganji (University of Texas at Arlington)</p>
-  </li>
-</ul>
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-3')">Abstract</div>
+  <div id="abstract-3" class="abstract-content" style="display:none;">
+    <p>This paper studies the formation of inflation expectations using generative AI in survey experiments, specifically focusing on agents created with Large Language Models (LLMs). It reveals that LLMs accessing relevant economic documents exhibit more consistent responses, demonstrating that domain knowledge significantly shapes expectations. Typically, LLMs predict higher inflation than actual rates, aligning closely with findings from the Survey of Consumer Expectations. Information treatments, particularly forward guidance, precisely influence LLMs' inflation expectations. Furthermore, customizing prompts with a persona induces partisan biases, mirroring human survey behaviors. It also explores the importance of model selection and the reasoning behind LLM responses, emphasizing how these elements impact outcomes. Additionally, the paper shows that LLMs can generate granular predictions of inflation expectations across demographic groups, suggesting potential applications in forecasting survey responses with limited data.</p>
+  </div>
+  
+  <div class="presentation-info">
+    <strong>Presentations:</strong> ICD Departmental Seminar Series (IMF), 2024 North American Meeting of the Economic Science Association (Columbus, OH), Experimental Economics Workshop at Purdue University (West Lafayette, IN), 30th Midwest Macroeconomics Meetings (West Lafayette, IN), 5th ACM International Conference on AI in Finance (Brooklyn, NY)
+  </div>
+  
+  <div class="coverage-info">
+    <strong>Coverage:</strong> <a href="https://marginalrevolution.com/marginalrevolution/2024/05/experimental-evidence-on-large-language-models.html">Marginal Revolution</a>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-title">Simulating the Survey of Professional Forecasters</div>
+  <div class="author-list">with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (MIT Sloan), Sophia Kazinnik (Stanford HAI), & Daniela Puzzello (Indiana University)</div>
+  
+  <div class="resources">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066286" class="resource-box">Draft</a>
+    <a href="#" class="resource-box">PDF</a>
+    <a href="#" class="resource-box">Slides</a>
+    <a href="#" class="resource-box">Appendix</a>
+  </div>
+  
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-4')">Abstract</div>
+  <div id="abstract-4" class="abstract-content" style="display:none;">
+    <p>We simulate economic forecasts of professional forecasters using large language models (LLMs). We construct synthetic forecaster personas using a unique hand-gathered dataset of participant characteristics from the Survey of Professional Forecasters. These personas are then provided with real-time macroeconomic data to generate simulated responses to the SPF survey. Our results show that LLM-generated predictions are similar to human forecasts, but often achieve superior accuracy, particularly at medium- and long-term horizons. We argue that this advantage arises from LLMs' ability to extract latent information encoded in past human forecasts while avoiding systematic biases and noise. Our framework offers a cost-effective, high-frequency alternative that complements traditional survey methods by leveraging both human expertise and AI precision.</p>
+  </div>
+  
+  <div class="coverage-info">
+    <strong>Coverage:</strong> <a href="https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm">Vice Chair for Supervision Michael S. Barr Speech</a> • <a href="https://www.bloomberg.com/opinion/articles/2025-02-26/robots-will-write-the-macro-forecasts">Bloomberg</a>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-title">Understanding AI Agents' Decision-Making: Evidence from Risk and Time Preference Elicitation</div>
+  <div class="author-list">with Gajanan L Ganji (University of Texas at Arlington)</div>
+  
+  <div class="resources">
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5154002" class="resource-box">Draft</a>
+    <a href="#" class="resource-box">PDF</a>
+    <a href="#" class="resource-box">Appendix</a>
+  </div>
+  
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-5')">Abstract</div>
+  <div id="abstract-5" class="abstract-content" style="display:none;">
+    <p>This study examines risk and time preferences of large language models (LLMs) in economic decision-making scenarios by adapting established behavioral economics measures. Using a novel methodology combining predefined risk personas and randomized controlled trials (RCTs), we assess AI agents' responses to various economic contexts. We find that AI models demonstrate systematic preference patterns influenced by both assigned personas and economic conditions, with larger models exhibiting more sophisticated preference updating than smaller models. Notably, recession scenarios elicit stronger preference adjustments than boom scenarios across all models, while risk-averse personas maintain consistent positions regardless of context. The results reveal that AI agents can develop coherent economic preferences distinct from human decision-making patterns, particularly in their response to negative economic information.</p>
+  </div>
+</div>
+
 <h2>Research in Progress</h2>
-<ul>
-  <li>
-    <strong>Large Language Models Are More Persuasive Than Incentivized Human Persuaders</strong> <a href="https://sites.google.com/view/ai-persuasion/team?authuser=0">[Website]</a>
-    <details>
-      <summary>Abstract</summary>
-      <p>We directly compare the persuasion capabilities of a frontier large language model (LLM; Claude Sonnet 3.5) against incentivized human persuaders in an interactive, real-time conversational setting. In this pre-registered, large-scale incentivized experiment, participants completed an online quiz where persuaders (either humans or LLM) attempted to persuade quiz takers towards correct or incorrect answers. We find that LLM persuaders achieve significantly higher compliance with their directional persuasion attempts than incentivized human persuaders, demonstrating superior persuasion capabilities in both truthful (toward correct answers) and deceptive (toward incorrect answers) contexts. We also find that LLM persuaders significantly increased quiz takers' earnings when aiming to improve accuracy, and significantly decreased their earnings when aiming to reduce accuracy. Overall, our findings suggest that AI persuasion capabilities already exceed robust human baselines. Our findings thus underscore the urgency of ethical and regulatory infrastructure that can mitigate excellent AI-driven persuasion technologies.</p>
-    </details>
-  </li>
-</ul>
+
+<div class="publication-container">
+  <div class="publication-title">Large Language Models Are More Persuasive Than Incentivized Human Persuaders</div>
+  
+  <div class="resources">
+    <a href="https://sites.google.com/view/ai-persuasion/team?authuser=0" class="resource-box">Website</a>
+  </div>
+  
+  <div class="abstract-toggle" onclick="toggleAbstract('abstract-6')">Abstract</div>
+  <div id="abstract-6" class="abstract-content" style="display:none;">
+    <p>We directly compare the persuasion capabilities of a frontier large language model (LLM; Claude Sonnet 3.5) against incentivized human persuaders in an interactive, real-time conversational setting. In this pre-registered, large-scale incentivized experiment, participants completed an online quiz where persuaders (either humans or LLM) attempted to persuade quiz takers towards correct or incorrect answers. We find that LLM persuaders achieve significantly higher compliance with their directional persuasion attempts than incentivized human persuaders, demonstrating superior persuasion capabilities in both truthful (toward correct answers) and deceptive (toward incorrect answers) contexts. We also find that LLM persuaders significantly increased quiz takers' earnings when aiming to improve accuracy, and significantly decreased their earnings when aiming to reduce accuracy. Overall, our findings suggest that AI persuasion capabilities already exceed robust human baselines. Our findings thus underscore the urgency of ethical and regulatory infrastructure that can mitigate excellent AI-driven persuasion technologies.</p>
+  </div>
+</div>
+
+<script>
+function toggleAbstract(id) {
+  var abstract = document.getElementById(id);
+  if (abstract.style.display === "none") {
+    abstract.style.display = "block";
+  } else {
+    abstract.style.display = "none";
+  }
+}
+</script>
