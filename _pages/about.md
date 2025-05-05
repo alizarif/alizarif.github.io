@@ -14,7 +14,7 @@ I am a PhD Candidate in Economics at Indiana University. My research interests i
 
 * **May 2025** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Large Language Models Are More Persuasive Than Incentivized Human Persuaders** - Draft Coming Soon
 
-* **April 2025** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Evidence on Inflation Expectations Formation Using LLMs** - Revised & Resubmitted at Journal of Monetary Economics
+* **April 2025** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Evidence on Inflation Expectations Formation Using LLMs** - R&R at Journal of Monetary Economics
 
 * **March 2025** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Presented SPF simulation at the **7th Annual AI in Finance Conference** in NYC
 
