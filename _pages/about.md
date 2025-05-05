@@ -7,87 +7,96 @@ redirect_from:
   - /about.html
 ---
 ## Welcome
-
 I am a PhD Candidate in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://github.com/alizarif/alizarif.github.io/blob/main/Resume_Nov_27__2024.pdf).
-
 
 ## Recent Updates
 
-<div class="updates-container">
-
-<div class="update-item">
-  <span class="update-date">May 2025</span>
-  <span class="update-badge research">Research</span>
-  <div class="update-content">
-    <strong>"Large Language Models Are More Persuasive Than Incentivized Human Persuaders"</strong> draft completed
+<div class="updates-section">
+  <div class="update-item">
+    <div class="update-header">
+      <span class="update-date">May 2025</span>
+      <span class="update-tag research">Research</span>
+    </div>
+    <div class="update-content">
+      <strong>Large Language Models Are More Persuasive Than Incentivized Human Persuaders</strong> - Draft completed
+    </div>
   </div>
-</div>
-
-<div class="update-item">
-  <span class="update-date">April 2025</span>
-  <span class="update-badge publication">Publication</span>
-  <div class="update-content">
-    <strong>"Evidence on Inflation Expectations Formation Using Large Language Models"</strong> received Revise & Resubmit from Journal of Monetary Economics
+  
+  <div class="update-item">
+    <div class="update-header">
+      <span class="update-date">April 2025</span>
+      <span class="update-tag publication">Publication</span>
+    </div>
+    <div class="update-content">
+      <strong>Evidence on Inflation Expectations Formation Using Large Language Models</strong> - Revise & Resubmit at Journal of Monetary Economics
+    </div>
   </div>
-</div>
-
-<div class="update-item">
-  <span class="update-date">March 2025</span>
-  <span class="update-badge presentation">Presentation</span>
-  <div class="update-content">
-    Presented at the <strong>7th Annual AI in Finance Conference</strong> in NYC
+  
+  <div class="update-item">
+    <div class="update-header">
+      <span class="update-date">March 2025</span>
+      <span class="update-tag presentation">Presentation</span>
+    </div>
+    <div class="update-content">
+      Presented at the <strong>7th Annual AI in Finance Conference</strong> in NYC
+    </div>
   </div>
-</div>
-
-<div class="update-item">
-  <span class="update-date">February 2025</span>
-  <span class="update-badge media">Media</span>
-  <div class="update-content">
-    SPF simulation research mentioned in <a href="https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm">Vice Chair Barr's Federal Reserve speech</a>
+  
+  <div class="update-item">
+    <div class="update-header">
+      <span class="update-date">February 2025</span>
+      <span class="update-tag media">Media</span>
+    </div>
+    <div class="update-content">
+      SPF simulation research mentioned in <a href="https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm">Vice Chair Barr's Federal Reserve speech</a>
+    </div>
   </div>
-</div>
-
 </div>
 
 <style>
-.updates-container {
-  margin-top: 15px;
+.updates-section {
+  margin: 1.5em 0;
 }
 .update-item {
-  margin-bottom: 12px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eaeaea;
+}
+.update-header {
+  margin-bottom: 0.4em;
+  display: flex;
+  align-items: center;
 }
 .update-date {
   font-weight: 500;
   color: #555;
-  margin-right: 8px;
+  display: inline-block;
+  width: 100px;
 }
-.update-badge {
+.update-tag {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 3px;
   font-size: 0.75em;
   font-weight: 500;
-  margin-right: 8px;
 }
-.update-badge.research {
-  background-color: #e1f5fe;
-  color: #0277bd;
+.update-tag.research {
+  background-color: #e3f2fd;
+  color: #1565c0;
 }
-.update-badge.publication {
+.update-tag.publication {
   background-color: #e8f5e9;
   color: #2e7d32;
 }
-.update-badge.presentation {
+.update-tag.presentation {
   background-color: #fff8e1;
-  color: #ff8f00;
+  color: #f57c00;
 }
-.update-badge.media {
+.update-tag.media {
   background-color: #f3e5f5;
   color: #7b1fa2;
 }
 .update-content {
-  margin-top: 5px;
+  margin-left: 0.25em;
 }
 </style>
