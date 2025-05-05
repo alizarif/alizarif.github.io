@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Welcome
-I am a PhD Candidate in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://github.com/alizarif/alizarif.github.io/blob/main/Resume_Nov_27__2024.pdf).
+I am a PhD Candidate in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and Large Language Models. I study questions related to expectations and AI-human interaction. Here is my [CV](https://alizarif.github.io/assets/Resume_May_6__2025.pdf).
 
 ## Recent Updates
 
