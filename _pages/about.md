@@ -12,11 +12,10 @@ I am a PhD Candidate in Economics at Indiana University. My research interests i
 
 ## Recent Updates
 
-| May 2025     | Large Language Models Are More Persuasive Than Incentivized Human Persuaders - |
+| May 2025     | Large Language Models Are More Persuasive Than Incentivized Human Persuaders |
 |              | Draft Coming Soon |
-| April 2025   | Evidence on Inflation Expectations Formation Using Large Language Models - |
+| April 2025   | Evidence on Inflation Expectations Formation Using Large Language Models |
 |              | Revised & Resubmitted at Journal of Monetary Economics |
-| March 2025   | Presented at the 7th Annual AI in Finance Conference |
-|              | NYC |
+| March 2025   | Presented at the 7th Annual AI in Finance Conference (NYC) |
 | Feb 2025| SPF simulation research mentioned in |
 |              | [Vice Chair Barr's Federal Reserve speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm) |
