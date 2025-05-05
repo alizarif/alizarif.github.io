@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Here is my [CV](https://alizarif.github.io/assets/Resume_May_6__2025.pdf).
 
