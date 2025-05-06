@@ -19,9 +19,3 @@ I am a PhD Candidate in Economics at Indiana University. My research interests i
 | <small>April 2025</small> | <small>**Evidence on Inflation Expectations Formation Using Large Language Models**</small> |
 |:--------------------------|:-------------------------------------------------------------------------------------------|
 |                           | <small>*Revised & Resubmitted at Journal of Monetary Economics*</small>                     |
-
-| <small>March 2025</small> | <small>**Presented at the 7th Annual AI in Finance Conference (NYC)**</small> |
-|:--------------------------|:-----------------------------------------------------------------------------|
-
-| <small>February 2025</small> | <small>**SPF simulation research mentioned in [Vice Chair Barr's Federal Reserve speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm)**</small> |
-|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
