@@ -13,5 +13,6 @@ I am a PhD Candidate in Economics at Indiana University. My research interests i
 ## What's New
 
 
+|------|------------|
 | **May 2025** | **Large Language Models Are More Persuasive Than Incentivized Human Persuaders** <br> *Draft Coming Soon* |
 | **April 2025** | **Evidence on Inflation Expectations Formation Using Large Language Models** <br> *Revised & Resubmitted at Journal of Monetary Economics* |
