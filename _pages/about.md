@@ -12,16 +12,16 @@ I am a PhD Candidate in Economics at Indiana University. My research interests i
 
 ## Recent Updates
 
-| May 2025     | Large Language Models Are More Persuasive Than Incentivized Human Persuaders |
-|:-------------|:----------------------------------------------------------------------------|
-|              | Draft Coming Soon                                                           |
+| <small>May 2025</small> | <small>**Large Language Models Are More Persuasive Than Incentivized Human Persuaders**</small> |
+|:------------------------|:----------------------------------------------------------------------------------------------|
+|                         | <small>*Draft Coming Soon*</small>                                                            |
 
-| April 2025   | Evidence on Inflation Expectations Formation Using Large Language Models     |
-|:-------------|:----------------------------------------------------------------------------|
-|              | Revised & Resubmitted at Journal of Monetary Economics                      |
+| <small>April 2025</small> | <small>**Evidence on Inflation Expectations Formation Using Large Language Models**</small> |
+|:--------------------------|:-------------------------------------------------------------------------------------------|
+|                           | <small>*Revised & Resubmitted at Journal of Monetary Economics*</small>                     |
 
-| March 2025   | Presented at the 7th Annual AI in Finance Conference (NYC)                  |
-|:-------------|:----------------------------------------------------------------------------|
+| <small>March 2025</small> | <small>**Presented at the 7th Annual AI in Finance Conference (NYC)**</small> |
+|:--------------------------|:-----------------------------------------------------------------------------|
 
-| February 2025| SPF simulation research mentioned in [Vice Chair Barr's Federal Reserve speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm) |
-|:-------------|:----------------------------------------------------------------------------|
+| <small>February 2025</small> | <small>**SPF simulation research mentioned in [Vice Chair Barr's Federal Reserve speech](https://www.federalreserve.gov/newsevents/speech/barr20250218a.htm)**</small> |
+|:-----------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
