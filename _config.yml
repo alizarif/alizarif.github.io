@@ -26,7 +26,7 @@ author:
   name             : "Ali Zarifhonarvar"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Bloomington, IN"
+  location         : #"Bloomington, IN"
   employer         : "Indiana University"
   uri              : # alizarif.github.io
   email            : "alizarif@iu.edu" 
