@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Here is my [CV](https://alizarif.github.io/assets/Resume_May_6__2025.pdf).
+Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 
