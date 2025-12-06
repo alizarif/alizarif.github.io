@@ -28,7 +28,7 @@ with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (M
 
 We simulate economic forecasts of professional forecasters using large language models (LLMs). We construct synthetic forecaster personas using a unique hand-gathered dataset of participant characteristics from the Survey of Professional Forecasters. These personas are then provided with real-time macroeconomic data to generate simulated responses to the SPF survey. Our results show that LLM-generated predictions are similar to human forecasts, but often achieve superior accuracy, particularly at medium- and long-term horizons. We argue that this advantage arises from LLMs' ability to extract latent information encoded in past human forecasts while avoiding systematic biases and noise. Our framework offers a cost-effective, high-frequency alternative that complements traditional survey methods by leveraging both human expertise and AI precision.
 
-[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066286)
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066286) |
 
 ---
 
