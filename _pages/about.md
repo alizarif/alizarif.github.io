@@ -42,7 +42,7 @@ We directly compare the persuasion capabilities of a frontier large language mod
 ---
 
 **AI Economic Behavior: Evidence from Risk and Time Preference Elicitation** (R&R at Research in Experimental Economics)  
-Zarifhonarvar, A. Ganji, G. L.
+with Ganji, G. L. (UT Arlington)
 
 This study examines risk and time preferences of large language models (LLMs) in economic decision-making scenarios by adapting established behavioral economics measures. Using a novel methodology combining predefined risk personas and randomized controlled trials (RCTs), we assess AI agents' responses to various economic contexts. We find that AI models demonstrate systematic preference patterns influenced by both assigned personas and economic conditions, with larger models exhibiting more sophisticated preference updating than smaller models. Notably, recession scenarios elicit stronger preference adjustments than boom scenarios across all models, while risk-averse personas maintain consistent positions regardless of context. The results reveal that AI agents can develop coherent economic preferences distinct from human decision-making patterns, particularly in their response to negative economic information.
 
