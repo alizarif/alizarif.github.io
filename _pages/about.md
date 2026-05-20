@@ -14,6 +14,7 @@ I am an economist working at the intersection of experimental economics, behavio
 Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 
 ## Conference Presentations & Talks
+<small>
 
 | Title | Place | Date |
 |---|---|---|
@@ -31,70 +32,6 @@ Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 | 30th Midwest Macroeconomics Meetings (MMM) | West Lafayette, IN, USA | September 2024 |
 | ICD Departmental Seminar Series, IMF | Washington, D.C., USA | July 2024 |
 
+</small>
 
-
-## Conference Presentations & Invited Talks
-
-<style>
-.talks-table {
-  font-size: 0.78em;
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 6px;
-}
-.talks-table th {
-  text-align: left;
-  padding: 5px 8px;
-  border-bottom: 2px solid #ccc;
-  font-weight: bold;
-}
-.talks-table td {
-  padding: 4px 8px;
-  vertical-align: top;
-  border-bottom: 1px solid #f0f0f0;
-}
-.talks-table tr:last-child td {
-  border-bottom: none;
-}
-.talks-table .date-col {
-  white-space: nowrap;
-  color: #555;
-  width: 110px;
-}
-.talks-table .place-col {
-  color: #555;
-  width: 190px;
-}
-.talks-note {
-  font-size: 0.78em;
-  color: #666;
-  margin-top: 6px;
-  font-style: italic;
-}
-</style>
-
-<table class="talks-table">
-  <thead>
-    <tr>
-      <th>Conference / Seminar</th>
-      <th class="place-col">Place</th>
-      <th class="date-col">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>NBER Summer Institute (Forecasting &amp; Empirical Methods)</td><td>Cambridge, MA, USA</td><td><em>July 2026</em></td></tr>
-    <tr><td>Econometric Society Interdisciplinary Frontier Economics and AI+ML Meeting (Cornell University)</td><td>Ithaca, NY, USA</td><td><em>July 2026</em></td></tr>
-    <tr><td>Inaugural Conference of the Economic Data Science Society</td><td>Paris, France</td><td><em>July 2026</em></td></tr>
-    <tr><td>60th Annual Meetings of the Canadian Economics Association</td><td>Vancouver, BC, Canada</td><td><em>May 2026</em></td></tr>
-    <tr><td>2025 North American Meeting of the Economic Science Association</td><td>Tucson, AZ, USA</td><td>October 2025</td></tr>
-    <tr><td>Ninth Biennial Meeting of the Social Dilemmas Working Group</td><td>Bloomington, IN, USA</td><td>June 2025</td></tr>
-    <tr><td>7th Annual AI in Finance Conference, Wolfe Research</td><td>New York City, NY, USA</td><td>March 2025</td></tr>
-    <tr><td>Simulation of Financial Markets and Economic Systems</td><td>New York City, NY, USA</td><td>November 2024</td></tr>
-    <tr><td>2024 North American Meeting of the Economic Science Association</td><td>Columbus, OH, USA</td><td>October 2024</td></tr>
-    <tr><td>30th Midwest Macroeconomics Meetings (MMM)</td><td>West Lafayette, IN, USA</td><td>September 2024</td></tr>
-    <tr><td>ICD Departmental Seminar Series, IMF</td><td>Washington, D.C., USA</td><td>July 2024</td></tr>
-  </tbody>
-</table>
-
-<p class="talks-note">Excludes presentations by coauthors.</p>
 
