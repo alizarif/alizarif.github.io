@@ -14,7 +14,6 @@ I am an economist working at the intersection of experimental economics, behavio
 Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 
 ## Conference Presentations & Talks
-<small>
 
 | Title | Place | Date |
 |---|---|---|
@@ -31,7 +30,4 @@ Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 | 2024 North American Meeting of the Economic Science Association | Columbus, OH, USA | October 2024 |
 | 30th Midwest Macroeconomics Meetings (MMM) | West Lafayette, IN, USA | September 2024 |
 | ICD Departmental Seminar Series, IMF | Washington, D.C., USA | July 2024 |
-
-</small>
-
 
