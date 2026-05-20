@@ -9,35 +9,24 @@ redirect_from:
 
 ## Welcome
 
-I am a PhD Candidate in Economics at Indiana University. My research interests include Experimental Economics, Behavioral Macroeconomics, NLP, and Large Language Models. I study questions related to expectations and AI-human interaction. I am also interested in AI, both as a tool for research and as an area of economic study.
+I am an economist working at the intersection of experimental economics, behavioral macroeconomics, and artificial intelligence. I recently completed my PhD in Economics at Indiana University. My research examines how AI systems form and communicate economic expectations, how they compare to human decision-makers in strategic and preference-elicitation settings, and how AI can augment traditional survey and forecasting methods. I am equally interested in AI as a subject of economic study and as a tool for empirical research.
 
 Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 
-## Job Market Paper
+## Conference Presentations & Talks
 
-**Generating Inflation Expectations with Large Language Models**  
-
-This paper studies the generation of inflation expectations using generative AI in survey experiments, specifically focusing on agents created with Large Language Models (LLMs). It reveals that LLMs accessing relevant economic documents exhibit more consistent responses, demonstrating that domain knowledge significantly shapes expectations. Typically, LLMs predict higher inflation than actual rates, aligning closely with findings from the Survey of Consumer Expectations. Information treatments, particularly forward guidance, precisely influence LLMs' inflation expectations. Furthermore, customizing prompts with a persona induces partisan biases, mirroring human survey behaviors. It also explores the importance of model selection and the reasoning behind LLM responses, emphasizing how these elements impact outcomes. Additionally, the paper shows that LLMs can generate granular predictions of inflation expectations across demographic groups, suggesting potential applications in forecasting survey responses with limited data.
-
-[Paper](https://doi.org/10.1016/j.jmoneco.2025.103859) | [Supplementary Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0304393225001308-mmc1.pdf) | [Code](https://github.com/alizarif/JME_AI-and-Inflation) | [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UJUFIN)
-
-## Working Papers
-
-**Simulating the Survey of Professional Forecasters**  
-with Anne Lundgaard Hansen (Federal Reserve Bank of Richmond), John J. Horton (MIT Sloan), Sophia Kazinnik (Stanford HAI), & Daniela Puzzello (Indiana University)
-
----
-
-**Large Language Models Are More Persuasive Than Incentivized Human Persuaders** (R&R at PNAS Nexus)  
-with Philipp Schoenegger (LSE) and et al.
-
----
-
-**AI Economic Behavior: Evidence from Risk and Time Preference Elicitation** (R&R at Research in Experimental Economics)  
-with Ganji, G. L. (UT Arlington)
-
-## Research in Progress
-
-**Zoom in on the FOMC**
-
-**Automated Firms**
+| Conference / Seminar | Place | Date |
+|---|---|---|
+| NBER Summer Institute (Forecasting & Empirical Methods) | Cambridge, MA, USA | July 2026 |
+| Econometric Society Interdisciplinary Frontier Economics and AI+ML Meeting (Cornell University) | Ithaca, NY, USA | July 2026 |
+| Inaugural Conference of the Economic Data Science Society | Paris, France | July 2026 |
+| 60th Annual Meetings of the Canadian Economics Association | Vancouver, BC, Canada | May 2026 |
+| 2025 North American Meeting of the Economic Science Association | Tucson, AZ, USA | October 2025 |
+| Ninth Biennial Meeting of the Social Dilemmas Working Group | Bloomington, IN, USA | June 2025 |
+| AI and the Future of Work, Wharton Human-AI Research  | Philadelphia, PA, USA   | May 2025 |
+| ECB Transformative Power of AI Conference  | Frankfurt, Germany  | April 2025 |
+| 7th Annual AI in Finance Conference, Wolfe Research | New York City, NY, USA | March 2025 |
+| ICD Departmental Seminar Series, IMF | Washington, D.C., USA | |
+| Simulation of Financial Markets and Economic Systems | New York City, NY, USA | November 2024 |
+| 2024 North American Meeting of the Economic Science Association | Columbus, OH, USA | October 2024 |
+| 30th Midwest Macroeconomics Meetings (MMM) | West Lafayette, IN, USA | August 2024 |
