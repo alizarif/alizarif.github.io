@@ -23,10 +23,11 @@ Here is my [CV](https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf).
 | 60th Annual Meetings of the Canadian Economics Association | Vancouver, BC, Canada | May 2026 |
 | 2025 North American Meeting of the Economic Science Association | Tucson, AZ, USA | October 2025 |
 | Ninth Biennial Meeting of the Social Dilemmas Working Group | Bloomington, IN, USA | June 2025 |
-| AI and the Future of Work, Wharton Human-AI Research  | Philadelphia, PA, USA   | May 2025 |
+| AI and the Future of Work, Wharton Human-AI Research  | Philadelphia, PA, USA | May 2025 |
 | ECB Transformative Power of AI Conference  | Frankfurt, Germany  | April 2025 |
 | 7th Annual AI in Finance Conference, Wolfe Research | New York City, NY, USA | March 2025 |
-| ICD Departmental Seminar Series, IMF | Washington, D.C., USA | |
 | Simulation of Financial Markets and Economic Systems | New York City, NY, USA | November 2024 |
 | 2024 North American Meeting of the Economic Science Association | Columbus, OH, USA | October 2024 |
-| 30th Midwest Macroeconomics Meetings (MMM) | West Lafayette, IN, USA | August 2024 |
+| 30th Midwest Macroeconomics Meetings (MMM) | West Lafayette, IN, USA | September 2024 |
+| ICD Departmental Seminar Series, IMF | Washington, D.C., USA | July 2024 |
+
