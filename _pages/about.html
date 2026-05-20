@@ -9,65 +9,111 @@ redirect_from:
 
 <style>
   h2 {
-    font-size: 1.2em;
-    margin-top: 28px;
-    margin-bottom: 12px;
+    font-size: 1.15em;
+    font-weight: 600;
+    margin-top: 32px;
+    margin-bottom: 10px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #444;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4px;
   }
+
+  .welcome-text {
+    font-size: 0.97em;
+    line-height: 1.85;
+    text-align: justify;
+    color: #333;
+    max-width: 680px;
+  }
+
+  .cv-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.88em;
+    color: #4682B4;
+    border: 1px solid #4682B4;
+    border-radius: 4px;
+    padding: 3px 12px;
+    text-decoration: none !important;
+    transition: background-color 0.2s, color 0.2s;
+  }
+
+  .cv-link:hover {
+    background-color: #4682B4;
+    color: white;
+  }
+
   .talks-table {
-    font-size: 0.68em;
+    font-size: 0.8em;
     width: 100%;
     border-collapse: collapse;
-    margin-top: 6px;
+    margin-top: 8px;
+    color: #333;
   }
+
   .talks-table th {
     text-align: left;
-    padding: 5px 8px;
-    border-bottom: 2px solid #ccc;
-    font-weight: bold;
+    padding: 6px 8px;
+    border-bottom: 2px solid #bbb;
+    font-weight: 600;
+    font-size: 0.95em;
+    color: #555;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
   }
+
   .talks-table td {
-    padding: 4px 8px;
+    padding: 5px 8px;
     vertical-align: top;
     border-bottom: 1px solid #f0f0f0;
+    line-height: 1.5;
   }
+
   .talks-table tr:last-child td {
     border-bottom: none;
   }
+
   .date-col {
     white-space: nowrap;
-    color: #555;
     width: 110px;
   }
+
   .place-col {
-    color: #555;
     width: 190px;
   }
+
   .talks-note {
     font-size: 0.78em;
-    color: #666;
-    margin-top: 6px;
+    color: #888;
+    margin-top: 8px;
     font-style: italic;
   }
+
   .past td {
-    color: #aaa;
+    color: #bbb;
   }
+
   a {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 </style>
 
 <h2>Welcome</h2>
 
-<p>I am an economist working at the intersection of experimental economics, behavioral macroeconomics, and artificial intelligence. I recently completed my PhD in Economics at Indiana University. My research examines how AI systems form and communicate economic expectations, how they compare to human decision-makers in strategic and preference-elicitation settings, and how AI can augment traditional survey and forecasting methods. I am equally interested in AI as a subject of economic study and as a tool for empirical research.</p>
+<p class="welcome-text">
+  I am an economist working at the intersection of experimental economics, behavioral macroeconomics, and artificial intelligence. I recently completed my PhD in Economics at Indiana University. My research examines how AI systems form and communicate economic expectations, how they compare to human decision-makers in strategic and preference-elicitation settings, and how AI can augment traditional survey and forecasting methods. I am equally interested in AI as a subject of economic study and as a tool for empirical research.
+</p>
 
-<p>Here is my <a href="https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf">CV</a>.</p>
+<a class="cv-link" href="https://alizarif.github.io/assets/Ali_Zarifhonarvar_CV.pdf">Curriculum Vitae ↓</a>
 
 <h2>Conference Presentations &amp; Talks</h2>
 
 <table class="talks-table">
   <thead>
     <tr>
-      <th>Conference / Seminar</th>
+      <th>Title</th>
       <th class="place-col">Place</th>
       <th class="date-col">Date</th>
     </tr>
